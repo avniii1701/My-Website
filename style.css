@@ -10,10 +10,10 @@ body {
 header {
     margin-bottom: 10px;
     padding: 5px;
-    background: rgba(255, 255, 255, 0.7);
+    background: #007bff;
     border-radius: 10px;
     font-size: 20px;
-    color: #333;
+    color: white;
     font-weight: bold;
 }
 
@@ -73,8 +73,8 @@ li {
 footer {
     margin-top: 20px;
     padding: 10px;
-    background: rgba(255, 255, 255, 0.7);
+    background: #007bff;
     border-radius: 10px;
     font-size: 14px;
-    color: #333;
+    color: white;
 }
